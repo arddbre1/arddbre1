@@ -69,7 +69,7 @@ Let's Connect!
 
 ### Project 1
 
-- **Description:** Collaborated on the full-stack development of a mobile-focused website designed to combat loneliness among seniors, contributing to every stage of the development process.
+- **Description:** Team Lead.
 - **Link:** [SeniorenAllTagPlus](https://sennioren-all-tag-plus-30bf76768159.herokuapp.com/)
 - **Technologies Used:** Ruby on Rails, APIs, Stimulus JavaScript, Devise, WebSocket, Action Cable, Mapbox.
 
